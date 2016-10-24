@@ -1,0 +1,11 @@
+.container {
+  width: 800px;
+  margin: auto;
+}
+canvas {
+  width: 800px;
+  height: 400px;
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=maps/main.css.map */

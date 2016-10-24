@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+### default-web template
+.idea
+node_modules
+dist
+build
+bower_components
